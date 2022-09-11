@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SlendaboyLP
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

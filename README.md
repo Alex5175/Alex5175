@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SlendaboyLP
-- 👀 I’m interested in Java Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development with React
+- 🌱 I’m currently learning JS Backend
+- 📫 How to reach me `alexander.zeitlhofer@sz-ybbs.ac.at`
 
 <!---
 SlendaboyLP/SlendaboyLP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

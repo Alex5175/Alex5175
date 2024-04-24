@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SlendaboyLP
 - 👀 I’m interested in Web Development with React
-- 🌱 I’m currently learning JS Backend
+- 🌱 I’m currently learning JS Backend and React Native
 - 📫 How to reach me `alexander.zeitlhofer@sz-ybbs.ac.at`
 
 <!---

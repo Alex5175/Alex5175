@@ -8,7 +8,7 @@ I've been coding since about 5 years ago. During that time i aquired knowledge o
 
 *   🌍  I'm based in Austria
 *   🖥️  See my portfolio at [alex-zeitlhofer.com](http://alex-zeitlhofer.com)
-*   ✉️  You can contact me at [alex.zeitlhofer@outlook.at](mailto:alex.zeitlhofer@outlook.at)
+*   ✉️  You can contact me at [zeitlhoferalex05@gmail.com](mailto:zeitlhoferalex05@gmail.com)
 *   🧠  I'm currently learning ElysiaJS
 *   👥  I'm looking to collaborate on any Webapps, or other types of software
 <p align="left">

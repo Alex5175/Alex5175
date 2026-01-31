@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-I've been coding since about 5 years ago. During that time i aquired knowledge of Java, Python, C#, C, and most importantly Javascript. Nowadays i love to created Websites and Webapps using Next.js!
+I've been coding since about 6 years ago. During that time i aquired knowledge of Java, Python, C#, C, and most importantly Javascript. Nowadays i love to created Websites and Webapps using Tanstack Start and other Web Technologies!
 
 *   🌍  I'm based in Austria
 *   🖥️  See my portfolio at [alex-zeitlhofer.com](http://alex-zeitlhofer.com)
